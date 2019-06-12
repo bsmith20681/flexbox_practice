@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+  border: 2px indigo solid;
+}
+
+.box-1 {
+  height: 30px;
+  width:30px;
+  background-color: red;
+}
+
+.box-2 {
+  height: 30px;
+  width:30px;
+  background-color: blue;
+}
+
+.box-3 {
+  height: 30px;
+  width:30px;
+  background-color: green;
+}
